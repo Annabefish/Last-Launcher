@@ -8,11 +8,12 @@
     <string name="rename">Rename</string>
 
     <!--Uninstall apps : as same as android settings-->
-    <string name="uninstall">Uninstall</string>
+    <string name="uninstall">Uninstall</string>c
     <string name="fonts">Fonts</string>
     <string name="themes">Themes</string>
     <string name="set_to_primary_colors">Set Primary Colors</string>
     <string name="backup">Backup</string>
+    <string name="display">Display</string>
 
     <string name="reset_to_default_settings">Reset to default Settings</string>
     <string name="app_info">App Info</string>
@@ -90,4 +91,5 @@
     <!--Sort Apps IN : RECENTLY USED FIRST ORDER -->
     <string name="recently_first">Recently first</string>
     <string name="restart_launcher">Restart Launcher</string>
+    <string name="Display">Display</string>
 </resources>
